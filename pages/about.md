@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
-permalink: "/about/"
-image: assets/images/screenshot.png
+title: 关于
+permalink: /about/
+image: assets/images/about.png
 ---
+本站点是我的个人博客，记录正在思考、正在做的事儿。
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+让自己暂停一下，关注当下，欣赏落叶，羞花......
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
-
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+----写于2024年3月30日
