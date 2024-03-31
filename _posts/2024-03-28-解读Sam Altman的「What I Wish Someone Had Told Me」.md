@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sam Altman 2024新年的17条总结
+title: 解读Sam Altman的「What I Wish Someone Had Told Me」
 categories:
   - Sam Altman
 image: assets/images/Sam_Altman.jpeg
@@ -8,7 +8,7 @@ image: assets/images/Sam_Altman.jpeg
 # 解读Sam Altman的「What I Wish Someone Had Told Me」
 
 
-%% 原文链接：[What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) %%
+ 原文链接：[What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) 
 
 
 1.Optimism, obsession, self-belief, raw horsepower and personal connections are how things get started.
