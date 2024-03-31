@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 解读Sam Altman的「What I Wish Someone Had Told Me」
+title: 解读Sam Altman的What I Wish Someone Had Told Me
 categories:
   - Sam Altman
 image: assets/images/Sam_Altman.jpeg
 ---
-# 解读Sam Altman的「What I Wish Someone Had Told Me」
+# 解读Sam Altman的What I Wish Someone Had Told Me
 
 
  原文链接：[What I Wish Someone Had Told Me](https://blog.samaltman.com/what-i-wish-someone-had-told-me) 
